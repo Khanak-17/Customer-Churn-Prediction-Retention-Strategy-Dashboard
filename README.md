@@ -10,7 +10,7 @@ The dashboard helps businesses identify high-risk customers, monitor churn KPIs,
 
 # 📸 Dashboard Preview
 
-![Churn Dashboard](dashboard-preview.png)
+![image alt](https://github.com/Khanak-17/Customer-Churn-Prediction-Retention-Strategy-Dashboard/blob/db45b3adefbe7feb2ddbadaf0c29e3459e947698/dashobard-preview.png)
 
 *Interactive Power BI dashboard showing customer churn trends, subscription insights, revenue analysis, and customer retention metrics.*
 
